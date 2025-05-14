@@ -17,14 +17,16 @@ Badges:
 ![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white) 
 <sub><sup>Since 2023 — lives in the shell, thinks in pipelines, navigates with intent</sup></sub>
 
+![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
+<sub><sup>Since 2023 — precision prompt engineering + critical language modeling</sup></sub>
+
 ![GitHub CLI Operator](https://img.shields.io/badge/GitHub%20CLI-operator-black?style=for-the-badge&logo=github&logoColor=white)
-<sub><sup>Since 2024 — fluent in `gh`-driven branching, PRs, and repo automation</sup></sub>
+<sub><sup>Earned November 2024 — fluent in `gh`-driven branching, PRs, and repo automation</sup></sub>
 
 ![Redmond Dungeon Survivor / SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)
 <sub><sup>Earned May 2025 — survived Windows policy hell and mastered `psql` scripting</sup></sub>
 
-![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
-<sub><sup>Since 2023 — precision prompt engineering + critical language modeling</sup></sub>
+
 
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
