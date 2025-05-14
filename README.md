@@ -18,7 +18,7 @@ Badges:
 <sub><sup>Since 2023 — lives in the shell, thinks in pipelines, navigates with intent</sup></sub>
 
 ![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
-<sub><sup>Since 2023 — precision prompt engineering + critical language modeling</sup></sub>
+<sub><sup>Since 2022 — precision prompt engineering + critical language modeling</sup></sub>
 
 ![GitHub CLI Operator](https://img.shields.io/badge/GitHub%20CLI-operator-black?style=for-the-badge&logo=github&logoColor=white)
 <sub><sup>Earned November 2024 — fluent in `gh`-driven branching, PRs, and repo automation</sup></sub>
