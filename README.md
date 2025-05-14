@@ -14,7 +14,7 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 ---
 
 <details>
-<summary> Show Badges</summary>
+<summary>**Badges**</summary>
 
 <br>
 
