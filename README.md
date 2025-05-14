@@ -13,7 +13,7 @@ If you came here looking for academic polish, you're in the wrong place.
 ---
 
 Badges:
-- Redmond Dungeon Survivor / SQL Automator
+- 🛡 Redmond Dungeon Survivor / SQL Automator — earned May 2025
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
