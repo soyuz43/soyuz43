@@ -27,6 +27,8 @@ Badges:
 ![Redmond Dungeon Survivor / SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)
 <sub><sup>Earned May 2025 — survived Windows policy hell and mastered `psql` scripting</sup></sub>
 
+![Synthetic Epistemologist](https://img.shields.io/badge/Synthetic%20Epistemologist-semiotic%20protocols%20engineer-8a2be2?style=for-the-badge)
+<sub><sup>Since 2025 — designs and governs structured reasoning systems using layered constraint prompts and ontology-aware filters</sup></sub>
 
 
 <!---
