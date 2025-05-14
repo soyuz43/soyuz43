@@ -14,15 +14,16 @@ If you came here looking for academic polish, you're in the wrong place.
 
 Badges:
 
+![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ![GitHub CLI Operator](https://img.shields.io/badge/GitHub%20CLI-operator-black?style=for-the-badge&logo=github&logoColor=white)
 
 ![Redmond Dungeon Survivor / SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
 
-![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white)
+![README Realist](https://img.shields.io/badge/README-Realist-007acc?style=for-the-badge&logo=markdown&logoColor=white)
 
-![Recursive Ethicist](https://img.shields.io/badge/Recursive-Ethicist-6a0dad?style=for-the-badge)
 
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
