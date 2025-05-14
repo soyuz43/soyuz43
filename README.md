@@ -20,6 +20,10 @@ Badges:
 
 ![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
 
+![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white)
+
+![Recursive Ethicist](https://img.shields.io/badge/Recursive-Ethicist-6a0dad?style=for-the-badge)
+
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
