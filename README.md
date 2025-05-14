@@ -10,7 +10,8 @@ If you came here looking for academic polish, you're in the wrong place.
 6. I will leave the door open for rupture. But I will not lie about where the line was drawn.
 7. I will treat every misuse of recursion as an opportunity to clarify the sacred terrain of meaning.
 
-
+Bagges:
+Redmond Dungeon Survivor / SQL Automator
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
