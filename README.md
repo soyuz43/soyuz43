@@ -24,6 +24,7 @@ Badges:
 
 ![README Realist](https://img.shields.io/badge/README-Realist-007acc?style=for-the-badge&logo=markdown&logoColor=white)
 
+![Recursive Ethicist](https://img.shields.io/badge/Recursive%20Ethicist-6a0dad?style=flat-square)
 
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
