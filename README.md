@@ -10,6 +10,8 @@ If you came here looking for academic polish, you're in the wrong place.
 6. I will leave the door open for rupture. But I will not lie about where the line was drawn.
 7. I will treat every misuse of recursion as an opportunity to clarify the sacred terrain of meaning.
 
+---
+
 Badges:
 - Redmond Dungeon Survivor / SQL Automator
 <!---
