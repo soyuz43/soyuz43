@@ -1,6 +1,6 @@
 # William Stetar
 
-If you came here looking for academic polish, you're in the wrong place.  
+**If you came here looking for academic polish, you're in the wrong place.**  
 _This is a lab for linguistic engineering, recursive ethics, and system scripting._
 
 1. I will live as if language has meaning.
