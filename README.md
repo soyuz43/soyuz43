@@ -30,6 +30,9 @@ Badges:
 ![Synthetic Epistemologist](https://img.shields.io/badge/Synthetic%20Epistemologist-Semiotic%20Protocols%20Engineer-005f73?style=for-the-badge&logo=semantic-release&logoColor=white)  
 <sub><sup>Since 2025 — designs and governs structured reasoning systems using layered constraint prompts and ontology-aware filters</sup></sub>
 
+![Epistemic Infrastructure Engineer](https://img.shields.io/badge/Epistemic%20Infrastructure%20Engineer-Recursive%20Integrity%20Architect-4b0082?style=for-the-badge)
+<sub><sup>Since 2025 — builds symbolic systems that metabolize contradiction and formalize structural drift</sup></sub>
+
 
 <!---
 soyuz43/soyuz43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
