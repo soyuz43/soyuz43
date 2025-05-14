@@ -15,16 +15,16 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 
 Badges:
 
-![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)
+![Prompt Puppeteer](https://img.shields.io/badge/Prompt-Puppeteer-ff69b4?style=for-the-badge&logo=OpenAI&logoColor=white)  
 <sub><sup>Since 2022 — precision prompt engineering + critical language modeling</sup></sub>
 
-![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white) 
+![Terminal-Native Thinker](https://img.shields.io/badge/Terminal--Native-Thinker-222?style=for-the-badge&logo=gnubash&logoColor=white)  
 <sub><sup>Since 2023 — lives in the shell, thinks in pipelines, navigates with intent</sup></sub>
 
-![GitHub CLI Operator](https://img.shields.io/badge/GitHub%20CLI-operator-black?style=for-the-badge&logo=github&logoColor=white)
+![GitHub CLI Operator](https://img.shields.io/badge/GitHub%20CLI-Operator-black?style=for-the-badge&logo=github&logoColor=white)  
 <sub><sup>Earned November 2024 — fluent in `gh`-driven branching, PRs, and repo automation</sup></sub>
 
-![Redmond Dungeon Survivor / SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-6a0dad?style=for-the-badge&logo=postgresql&logoColor=white)  
 <sub><sup>Earned May 2025 — survived Windows policy hell and mastered `psql` scripting</sup></sub>
 
 ![Synthetic Epistemologist](https://img.shields.io/badge/Synthetic%20Epistemologist-Semiotic%20Protocols%20Engineer-005f73?style=for-the-badge&logo=semantic-release&logoColor=white)  
