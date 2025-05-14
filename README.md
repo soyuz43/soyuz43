@@ -13,6 +13,7 @@ If you came here looking for academic polish, you're in the wrong place.
 ---
 
 Badges:
+
 ![Redmond Dungeon Survivor / SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-blueviolet?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!---
