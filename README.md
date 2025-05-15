@@ -36,6 +36,9 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 ![Epistemic Infrastructure Engineer](https://img.shields.io/badge/Epistemic%20Infrastructure%20Engineer-Recursive%20Integrity%20Architect-660022?style=for-the-badge&logo=semantic-release&logoColor=white)  
 <sub><sup>Since 2025 — builds symbolic systems that metabolize contradiction and formalize structural drift</sup></sub>
 
+![Semiotic Tactician](https://img.shields.io/badge/Semiotic%20Tactician-Symbolic%20Flow%20Strategist-004d40?style=for-the-badge&logo=abstract&logoColor=white)    
+<sub><sup>Since 2024 — performs epistemic redirection, structural reframing, and linguistic feints to clarify or destabilize dominant meaning systems</sup></sub>
+
 </details>
 
 <!---
