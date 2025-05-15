@@ -28,7 +28,7 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 <sub><sup>Earned November 2024 — fluent in `gh`-driven branching, PRs, and repo automation</sup></sub>
 
 ![Semiotic Tactician](https://img.shields.io/badge/Semiotic%20Tactician-Symbolic%20Flow%20Strategist-004d40?style=for-the-badge&logo=abstract&logoColor=white)    
-<sub><sup>Since 2024 — performs epistemic redirection, structural reframing, and linguistic feints to clarify or destabilize dominant meaning systems</sup></sub>
+<sub><sup>Earned April 2025 — performs epistemic redirection, structural reframing, and linguistic feints to clarify or destabilize dominant meaning systems</sup></sub>
 
 ![SQL Automator](https://img.shields.io/badge/Redmond%20Dungeon%20Survivor-SQL%20Automator-6a0dad?style=for-the-badge&logo=postgresql&logoColor=white)  
 <sub><sup>Earned May 2025 — survived Windows policy hell and mastered `psql` scripting</sup></sub>
