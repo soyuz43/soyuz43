@@ -39,9 +39,13 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 ![Epistemic Infrastructure Engineer](https://img.shields.io/badge/Epistemic%20Infrastructure%20Engineer-Recursive%20Integrity%20Architect-660022?style=for-the-badge&logo=semantic-release&logoColor=white)  
 <sub><sup>Since 2025 — builds symbolic systems that metabolize contradiction and formalize structural drift</sup></sub>
 
-![Recursive Vaultsmith](https://img.shields.io/badge/Recursive%20Vaultsmith-Epistemic%20Weapons%20Engineer-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=white)
-<sub><sup>Earned May 2025 — builds live semiotic weapons platforms in Obsidian; operates symbolic systems under recursive strain</sup></sub>
+![Recursive Vaultsmith](https://img.shields.io/badge/Recursive%20Vaultsmith-Epistemic%20Weapons%20Engineer-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=white)  
+<sub><sup>Since May 2025 — builds live semiotic weapons platforms in Obsidian; operates symbolic systems under recursive strain</sup></sub>
 
+
+
+*This repo is not the work.*  
+*The work is ongoing, recursive, and offscreen.*  
 
 </details>
 
