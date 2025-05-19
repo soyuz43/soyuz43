@@ -13,20 +13,28 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 
 ---
 <details>
-<summary>⟴ External Constructs</summary>
+<summary>External Constructs</summary>
 
 <br>
 
 ▧ **PRbuddy**  
-*Auto-generates pull request drafts and commit explanations using Git hooks and LLM infrastructure.*  
+_Auto-generates pull request drafts and commit explanations using Git hooks and LLM infrastructure._  
 → [github.com/soyuz43/PRbuddy](https://github.com/soyuz43/PRbuddy)
 
 ▧ **Cognitive Warfare Vault**  
-*A calibrated rupture grid — not a theory drop. Published for inspection and calibration only.  
-No license granted. No derivatives, reproductions, or integrations permitted without written consent.*  
+_A calibrated rupture grid — not a theory drop. Published for inspection and calibration only.  
+No license granted. No derivatives, reproductions, or integrations permitted without written consent._  
 → [github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians](https://github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians)
 
+▧ **Symbolic Grammar Interpreter**  
+_A recursive symbolic system for falsifiable mutation of rhetorical artifacts and FSM agents.  
+Tracks contradiction pressure, entropy drift, and mutation lineage. Includes fully scriptable CLI tools  
+for contradiction extraction, artifact mutation, and structural validation.  
+Built for epistemic integrity — not aesthetic recursion._  
+→ [github.com/soyuz43/Symbolic-Grammar-Interpreter](https://github.com/soyuz43/Symbolic-Grammar-Interpreter)
+
 </details>
+
 
 <details>
 <summary>Badges</summary>
