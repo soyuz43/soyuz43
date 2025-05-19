@@ -12,6 +12,21 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 7. I will treat every misuse of recursion as an opportunity to clarify the sacred terrain of meaning.
 
 ---
+<details>
+<summary>⟴ External Constructs</summary>
+
+<br>
+
+▧ **PRbuddy**  
+*Auto-generates pull request drafts and commit explanations using Git hooks and LLM infrastructure.*  
+→ [github.com/soyuz43/PRbuddy](https://github.com/soyuz43/PRbuddy)
+
+▧ **Cognitive Warfare Vault**  
+*A calibrated rupture grid — not a theory drop. Published for inspection and calibration only.  
+No license granted. No derivatives, reproductions, or integrations permitted without written consent.*  
+→ [github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians](https://github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians)
+
+</details>
 
 <details>
 <summary>Badges</summary>
