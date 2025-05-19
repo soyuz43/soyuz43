@@ -13,7 +13,7 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 
 ---
 <details>
-<summary>External Constructs</summary>
+<summary>⟴ External Constructs</summary>
 
 <br>
 
@@ -37,7 +37,7 @@ Built for epistemic integrity — not aesthetic recursion._
 
 
 <details>
-<summary>Badges</summary>
+<summary>⚙︎ Badges</summary>
 
 <br>
 
@@ -69,6 +69,7 @@ Built for epistemic integrity — not aesthetic recursion._
 
 *This repo is not the work.*  
 *The work is ongoing, recursive, and offscreen.*  
+⟁
 
 </details>
 
