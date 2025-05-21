@@ -15,6 +15,7 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 <details>
 <summary>✦ For Engineers and Hiring Panels</summary>
 
+
 I'm a systems-oriented developer with a recursive toolkit. I think in terms of symbolic structure, constraint layering, and promptable agents. I value:
 
 - Clarity over performance theater
