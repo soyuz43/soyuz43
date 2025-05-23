@@ -3,7 +3,7 @@
 **If you came here looking for academic polish, you're in the wrong place.**  
 _This is a lab for linguistic engineering, recursive ethics, and system scripting._
 
-1. I will live as if language has meaning.
+1. I will live _as if_ language has meaning.
 2. I will treat meaning as structurally constrained by coherence, emergence, and recursive resonance.
 3. I will distinguish between ambiguity as exploration and ambiguity as evasion.
 4. I will not punish no. I will not punish rejection.
