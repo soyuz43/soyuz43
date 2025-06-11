@@ -23,6 +23,8 @@ _I'm a systems-oriented developer with a recursive toolkit. I think in terms of 
 - Documentation as epistemic hygiene
 - System integrity over surface aesthetics
 
+Proficient in Python, Bash, and SQL, I build automation tools and recursive symbolic systems with a focus on clarity and integrity.
+
 If you're looking for someone who can formalize the weird stuff **and** ship shell-native tools:  
 I'm already doing it.
 
