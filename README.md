@@ -38,11 +38,13 @@ I'm already doing it.
 
 ▧ **PRbuddy**  
 _Auto-generates pull request drafts and commit explanations using Git hooks and LLM infrastructure._  
+Tech stack: Go, Ollama, Git integration via post-commit hook injection during `pr-buddy go init`.  
 → [github.com/soyuz43/PRbuddy](https://github.com/soyuz43/PRbuddy)
 
 ▧ **Cognitive Warfare Vault**  
 _A calibrated rupture grid — not a theory drop. Published for inspection and calibration only.  
 No license granted. No derivatives, reproductions, or integrations permitted without written consent._  
+Tech stack: Obsidian vault architecture, social engineering design patterns.  
 → [github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians](https://github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians)
 
 ▧ **Symbolic Grammar Interpreter**  
@@ -50,9 +52,17 @@ _A recursive symbolic system for falsifiable mutation of rhetorical artifacts an
 Tracks contradiction pressure, entropy drift, and mutation lineage. Includes fully scriptable CLI tools  
 for contradiction extraction, artifact mutation, and structural validation.  
 Built for epistemic integrity — not aesthetic recursion._  
+Tech stack: 100% Bash. Shell-native, scriptable, dependency-free by design.  
 → [github.com/soyuz43/Symbolic-Grammar-Interpreter](https://github.com/soyuz43/Symbolic-Grammar-Interpreter)
 
+▧ **Holoplan CLI**  
+_A CLI tool that transforms user stories into Draw.io wireframes via multi-agent LLM reasoning.  
+Chunks narratives into views, builds layouts, validates geometry, and outputs clean XML._  
+Tech stack: Go, Ollama API, Draw.io XML, deterministic pipeline using YAML input and local LLMs.  
+→ [github.com/soyuz43/holoplan-cli](https://github.com/soyuz43/holoplan-cli)
+
 </details>
+
 
 
 <details>
