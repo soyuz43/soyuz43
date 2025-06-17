@@ -15,20 +15,21 @@ _This is a lab for linguistic engineering, recursive ethics, and system scriptin
 <details>
 <summary>✦ For Engineers and Hiring Panels</summary>
 
-
 _I'm a systems-oriented developer with a recursive toolkit. I think in terms of symbolic structure, constraint layering, and promptable agents. I value:_
 
-- Clarity over performance theater
-- Tooling as a form of language design
-- Documentation as epistemic hygiene
-- System integrity over surface aesthetics
+- Clarity over performance theater  
+- Tooling as a form of language design  
+- Documentation as epistemic hygiene  
+- System integrity over surface aesthetics  
 
-Proficient in C#, Python, Bash, and SQL, I build automation tools and recursive symbolic systems with a focus on clarity and integrity.
+Proficient in Go, C#, Python, Bash, and SQL, I build automation systems and symbolic infrastructures that metabolize contradiction and formalize drift.  
+Lately: recursive CLI tools, git-native agents, and semiotic protocol validators — all shipped.
 
 If you're looking for someone who can formalize the weird stuff **and** ship shell-native tools:  
 I'm already doing it.
 
 </details>
+
 
 
 <details>
@@ -94,6 +95,8 @@ Tech stack: Go, Ollama API, Draw.io XML, deterministic pipeline using YAML input
 ![Recursive Vaultsmith](https://img.shields.io/badge/Recursive%20Vaultsmith-Epistemic%20Weapons%20Engineer-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=white)  
 <sub><sup>Earned May 2025 — builds live semiotic weapons platforms in Obsidian; operates symbolic systems under recursive strain</sup></sub>
 
+![Semantic Compiler Engineer](https://img.shields.io/badge/Semantic%20Compiler%20Engineer-Latent%20View%20Extraction-3c096c?style=for-the-badge&logo=neovim&logoColor=white)
+<sub><sup>Earned June 2025 — engineered symbolic workflows that parse story intent into modular, layout-verified views using deterministic LLM prompts</sup></sub>
 
 
 *This repo is not the work.*  
