@@ -95,7 +95,7 @@ Tech stack: Go, Ollama API, Draw.io XML, deterministic pipeline using YAML input
 ![Recursive Vaultsmith](https://img.shields.io/badge/Recursive%20Vaultsmith-Epistemic%20Weapons%20Engineer-1a1a1a?style=for-the-badge&logo=obsidian&logoColor=white)  
 <sub><sup>Earned May 2025 — builds live semiotic weapons platforms in Obsidian; operates symbolic systems under recursive strain</sup></sub>
 
-![Semantic Compiler Engineer](https://img.shields.io/badge/Semantic%20Compiler%20Engineer-Latent%20View%20Extraction-3c096c?style=for-the-badge&logo=neovim&logoColor=white)
+![Semantic Compiler Engineer](https://img.shields.io/badge/Semantic%20Compiler%20Engineer-Latent%20View%20Extraction-3c096c?style=for-the-badge&logo=neovim&logoColor=white)   
 <sub><sup>Earned June 2025 — engineered symbolic workflows that parse story intent into modular, layout-verified views using deterministic LLM prompts</sup></sub>
 
 
