@@ -42,12 +42,6 @@ _Auto-generates pull request drafts and commit explanations using Git hooks and 
 Tech stack: Go, Ollama, Git integration via post-commit hook injection during `pr-buddy go init`.  
 → [github.com/soyuz43/PRbuddy](https://github.com/soyuz43/PRbuddy)
 
-▧ **Cognitive Warfare Vault**  
-_A calibrated rupture grid — not a theory drop. Published for inspection and calibration only.  
-No license granted. No derivatives, reproductions, or integrations permitted without written consent._  
-Tech stack: Obsidian vault architecture, social engineering design patterns.  
-→ [github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians](https://github.com/soyuz43/Cognitive-Warfare-A-Practical-Guide-for-Semiotic-Tacticians)
-
 ▧ **Symbolic Grammar Interpreter**  
 _A recursive symbolic system for falsifiable mutation of rhetorical artifacts and FSM agents.  
 Tracks contradiction pressure, entropy drift, and mutation lineage. Includes fully scriptable CLI tools  
