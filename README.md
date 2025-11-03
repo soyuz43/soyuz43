@@ -21,8 +21,9 @@ github.com/soyuz43/holoplan-cli
 📝 [Hashnode Blog](https://copin43.hashnode.dev/) - Essays on AI safety, linguistic analysis, and ethical implications of LLMs
 Notable pieces:
 
-"The Nuremberg Defense of AI" - On accountability in ML development
-"Epistemic Autoimmunity" - Framework for analyzing alignment failures through discourse patterns
+- "The Nuremberg Defense of AI" - On accountability in ML development
+
+- "Epistemic Autoimmunity" - Framework for analyzing alignment failures through discourse patterns
 
 
 Contact
