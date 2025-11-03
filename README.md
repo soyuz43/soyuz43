@@ -28,6 +28,11 @@ Notable pieces:
 
 - "Epistemic Autoimmunity" - Framework for analyzing alignment failures through discourse patterns
 
+**Currently**
+
+- Conducting comparative analysis of Western vs. Eastern LLM failure modes
+- Developing empirical framework for measuring epistemic autoimmunity in model outputs
+- Open to collaboration and full-time research positions in AI safety
 
 Contact
 📧 kebekad673@proton.me
