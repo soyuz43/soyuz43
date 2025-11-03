@@ -42,6 +42,7 @@ Notable pieces:
 - Open to collaboration and full-time research positions in AI safety
 
 </details>
+<details>
 <summary>Contact</summary>
 
 📧 kebekad673@proton.me
