@@ -9,7 +9,7 @@ Current Research: Investigating epistemic failure modes in LLMs using Systemic F
 Technical Skills: Go, Python, Bash, C#, SQL | LLM integration | CLI tooling | Git automation
 
 <details>
-<summary>**Projects**</summary>
+<summary>Projects</summary>
 
 - PRbuddy - Auto-generates pull request drafts using Git hooks and LLM infrastructure
 github.com/soyuz43/PRbuddy
@@ -23,7 +23,7 @@ github.com/soyuz43/holoplan-cli
 </details>
 
 <details>
-<summary>**Writing & Research**</summary>
+<summary>Writing & Research</summary>
 
 📝 [Hashnode Blog](https://copin43.hashnode.dev/) - Essays on AI safety, linguistic analysis, and ethical implications of LLMs
 Notable pieces:
@@ -35,14 +35,14 @@ Notable pieces:
 </details>
 
 <details>
-<summary>**Currently**</summary>
+<summary>Currently</summary>
 
 - Conducting comparative analysis of Western vs. Eastern LLM failure modes
 - Developing empirical framework for measuring epistemic autoimmunity in model outputs
 - Open to collaboration and full-time research positions in AI safety
 
 <details>
-<summary>**Contact**</summary>
+<summary>Contact</summary>
 
 📧 kebekad673@proton.me
 🔗 [LinkedIn](https://www.linkedin.com/in/copin43)
