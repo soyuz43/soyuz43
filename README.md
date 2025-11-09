@@ -11,14 +11,12 @@ Technical Skills: Go, Python, Bash, C#, SQL | LLM integration | CLI tooling | Gi
 <details>
 <summary>Projects</summary>
 
-- PRbuddy - Auto-generates pull request drafts using Git hooks and LLM infrastructure
-github.com/soyuz43/PRbuddy
+- [PRbuddy](github.com/soyuz43/PRbuddy) - Auto-generates pull request drafts using Git hooks and LLM infrastructure
 
-- Symbolic Grammar Interpreter - Recursive system for analyzing contradiction and structural drift in text
-github.com/soyuz43/Symbolic-Grammar-Interpreter
+- [Symbolic Grammar Interpreter](github.com/soyuz43/Symbolic-Grammar-Interpreter) - Recursive system for analyzing contradiction and structural drift in text
 
-- Holoplan CLI - Transforms user stories into Draw.io wireframes via multi-agent LLM reasoning
-github.com/soyuz43/holoplan-cli
+- [Holoplan CLI](github.com/soyuz43/holoplan-cli) - Transforms user stories into Draw.io wireframes via multi-agent LLM reasoning
+
 
 </details>
 
