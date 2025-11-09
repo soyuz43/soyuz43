@@ -26,6 +26,7 @@ github.com/soyuz43/holoplan-cli
 <summary>Writing & Research</summary>
 
 📝 [Hashnode Blog](https://copin43.hashnode.dev/) - Essays on AI safety, linguistic analysis, and ethical implications of LLMs
+
 Notable pieces:
 
 - "The Nuremberg Defense of AI" - On accountability in ML development
