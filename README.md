@@ -4,9 +4,6 @@ William Stetar
 
 **AI Safety Researcher | Computational Linguist | Systems Developer**
 
-I analyze language model behavior through computational linguistics, focusing on how discourse patterns shape alignment failures. I also build tools for LLM integration, git automation, and symbolic reasoning systems.
-Current Research: Investigating epistemic failure modes in LLMs using Systemic Functional Linguistics—specifically how models prioritize interpersonal coherence over factual accuracy under pressure.
-
 
 Technical Skills: Go, Python, Bash, C#, SQL | LLM integration | CLI tooling | Git automation
 
