@@ -43,7 +43,7 @@ Notable pieces:
 <details>
 <summary>Contact</summary>
 
-📧 kebekad673@proton.me
+📧 stetar.william@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/copin43)
 
 </details>
