@@ -1,8 +1,12 @@
 # William Stetar
 
-Mechanistic Inerpretablility and Computational Philosiphy of Science
+**Mechanistic Interpretability** · **Computational Philosophy of Science**
 
-📧 stetar.william@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/copin43)
+I build computational benchmarks and experimental frameworks for studying inquiry, hypothesis selection, and scientific reasoning. My current work focuses on developing reproducible methods for evaluating mechanistic explanations, experiment-selection policies, and epistemic reliability in finite, exactly-computable environments.
+
+<details>
+<summary>Links</summary>
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/copin43
 
 </details>
