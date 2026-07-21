@@ -1,4 +1,5 @@
-William Stetar
+# William Stetar
+
 Mechanistic Inerpretablility and Computational Philosiphy of Science
 
 📧 stetar.william@gmail.com
