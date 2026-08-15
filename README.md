@@ -8,6 +8,5 @@ I build computational benchmarks and experimental frameworks for studying inquir
 <summary>Links</summary>
 
 * LinkedIn: https://www.linkedin.com/in/copin43
-* ORCID https://orcid.org/0009-0008-1156-123X
 
 </details>
