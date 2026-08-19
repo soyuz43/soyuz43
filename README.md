@@ -1,8 +1,10 @@
 # William Stetar
 
-**Mechanistic Interpretability** · **Computational Philosophy of Science**
+**Systems Developer** · **Mechanistic Interpretability** · **Computational Epistemology**
 
-I build computational benchmarks and experimental frameworks for studying inquiry, hypothesis selection, and scientific reasoning. My current work focuses on developing reproducible methods for evaluating mechanistic explanations, experiment-selection policies, and epistemic reliability in finite, exactly-computable environments.
+I build deterministic software, multi-agent environments, and computational frameworks for studying AI safety and scientific reasoning. 
+
+My work bridges abstract epistemic theory with practical systems engineering. I develop everything from fidelity-first physics sandboxes and automated developer tooling to adversarial LLM engines and hidden-state analysis probes.
 
 <details>
 <summary>Links</summary>
